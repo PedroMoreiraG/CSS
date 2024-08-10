@@ -1,0 +1,19 @@
+p:nth-child(odd), div:nth-child(odd){
+  background-color: lightcoral;
+  font-family: Verdana, sans-serif;
+}
+
+div:nth-child(2){
+  color: blue;
+  font-size: 36px;
+}
+
+p:nth-child(3){
+ background-color: lightcoral;
+ font-size: 24px;
+}
+div:nth-child(4){
+ background-color: lightgreen;
+ font-size: 24px;
+ font-weight: bold;
+}
